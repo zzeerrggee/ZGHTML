@@ -1,0 +1,28 @@
+html, body {cursor: url("http://zergee.clan.su/SC2-cursor-zerg-small.cur"), auto;}
+a{color: #525252;text-decoration: underline;font-weight: normal;cursor: url("http://zergee.clan.su/hover.cur"), auto;}
+a:link{color: #525252;text-decoration: underline;font-weight: normal;cursor: url("http://zergee.clan.su/hover.cur"), auto;}
+a:visited{color: #525252;text-decoration: underline;font-weight: normal;cursor: url("http://zergee.clan.su/hover.cur"), auto;}
+a:active{color: red;text-decoration: none;font-weight: normal;cursor: url("http://zergee.clan.su/hover.cur"), auto;}
+a:hover{color: red;text-decoration: none !important;font-weight: normal;cursor: url("http://zergee.clan.su/hover.cur"), auto;}
+
+SCROLLBAR-3dlight-COLOR:#FFFFFF;
+SCROLLBAR-ARROW-COLOR:#FFFFFF;
+SCROLLBAR-BASE-COLOR:#FFFFFF;
+SCROLLBAR-darkshadow-COLOR:#FFFFFF;
+SCROLLBAR-FACE-COLOR:#FDC763;
+SCROLLBAR-highlight-COLOR:#FFFFFF;
+SCROLLBAR-shadow-COLOR:#FDC763;
+SCROLLBAR-TRACK-COLOR:#EDEDED;
+
+/*выделение мышью*/
+/* Firefox */
+:: moz selection {
+    background:#8b00ff;
+    color:#ffffff;
+}
+
+/* Safari */
+::selection {
+    background:#8b00ff;
+    color:#ffffff;
+}
