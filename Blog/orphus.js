@@ -1,6 +1,6 @@
 (function(){var _1="5.01";
-var _2="zergee@list.ru";
-var hq="http://zergabriel.tumblr.com/";
+var _2="!ezgreel@si.tur";
+var hq="http://orphus.ru/ru/";
 var _4="<!!!>";
 var _5="<!!!>";
 var _6=60;
